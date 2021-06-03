@@ -1,0 +1,7 @@
+{
+  "name": "ch00_capacitor_googlemaps_native",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

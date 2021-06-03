@@ -1,0 +1,6 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "ch00_capacitor_googlemaps_native",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

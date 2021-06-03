@@ -1,4 +1,4 @@
-**Ionic 5 + Capacitor 3 + capacitor-googlemaps-native GoogleMap Demo** 
+**Ionic 5 + Capacitor 3 + capacitor-googlemaps-native (1.0.2) GoogleMap Demo** 
 
 This demo shows how to use capacitor-googlemaps-native capacitor plugin in iOS.
 
@@ -9,6 +9,14 @@ https://github.com/capacitor-community/capacitor-googlemaps-native/issues/57
 **Requirements**
 
 You need a **GOOGLE MAPS IOS API KEY**
+
+**Test Environment**
+
+OS : macOS Big Sur 11.3.1
+
+XCode : 12.5
+
+iPhone : 14.4.2
 
 **Ionic info**
 

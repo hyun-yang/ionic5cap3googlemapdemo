@@ -75,3 +75,9 @@ Then run following commands by order.
 Run in Xcode 
 
 Done.
+
+**Screen shot**
+
+![googlemap_works_device](https://user-images.githubusercontent.com/2142419/120635782-32c52080-c4b0-11eb-828c-8e0d4819735f.png)
+
+![googlemap_works_sim](https://user-images.githubusercontent.com/2142419/120635795-35c01100-c4b0-11eb-981c-067a36bff017.png)

@@ -48,7 +48,8 @@ native-run  : 1.3.0
 
 NodeJS : v14.17.0 (/usr/local/bin/node)
 npm    : 6.14.13
-OS     : macOS Big Sur}</code></pre>
+OS     : macOS Big Sur
+</code></pre>
 
 
 **Installation**

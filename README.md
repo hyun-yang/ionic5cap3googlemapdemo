@@ -1,4 +1,4 @@
-**Ionic 5 + Capacitor 3 + capacitor-googlemaps-native (1.0.2) GoogleMap Demo** 
+**Ionic 6 + Capacitor 3 + capacitor-googlemaps-native (1.0.2) GoogleMap Demo** 
 
 This demo shows how to use capacitor-googlemaps-native capacitor plugin in iOS.
 

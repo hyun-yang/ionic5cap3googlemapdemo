@@ -4,6 +4,8 @@ This demo shows how to use capacitor-googlemaps-native capacitor plugin in iOS.
 
 Recently the author fixed following issue which I raised.
 
+Pluin github https://github.com/capacitor-community/google-maps
+
 https://github.com/capacitor-community/capacitor-googlemaps-native/issues/57
 
 **Requirements**

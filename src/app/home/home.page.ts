@@ -15,9 +15,13 @@ export class HomePage {
   }
 
   async initialize() {
-    await CapacitorGoogleMaps.initialize({
-      key: 'GOOGLE_MAPS_IOS_API_KEY'
-    });
+    try{
+      await CapacitorGoogleMaps.initialize({
+        key: 'GOOGLE_MAPS_IOS_API_KEY'
+      });
+    } catch (e) {
+        console.log(e);
+    }
   }
 
   async ionViewDidEnter() {
